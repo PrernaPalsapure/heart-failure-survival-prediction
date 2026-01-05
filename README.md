@@ -1,5 +1,7 @@
 ❤️ Prediction of Heart Failure Survival
+
 📌 Project Overview :
+
 This work predicts the survival risk for heart failure patients based on clinical features of age, ejection fraction, serum creatinine, platelets, and follow-up time.
 It does cover the entire data science lifecycle:
 
