@@ -45,7 +45,11 @@ Selection of Dataset -
 5. Survival trends
 
 📽️ Dashboard Video:
-👉 dashboard/powerbi_dashboard.mp4
+👉 [PowerBI Dashboard](https://github.com/user-attachments/assets/18e18ad2-ca8e-4782-8bf9-9ea18fa898be)
+
+
+📽️ Streamlit Deployement App:
+👉[Streamlit App](https://github.com/user-attachments/assets/3c52dba5-479a-48cc-af71-8ba037d793ab)
 
 🚀 Deployment :
 1. Web app built using Streamlit
